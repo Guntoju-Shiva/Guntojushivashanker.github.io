@@ -2,7 +2,7 @@
 Welcome to my personal portfolio! I’m a Senior SQL Developer at Virtusa
 
 ## About Me
-I have experience in SQl-Data extraction, manipulation, and reporting & Publishing responsive Dashboards.
+I have experience in SQl-Data Extraction, Manipulation, Reporting & Publishing Responsive Dashboards.
 ## Skills
 - My SQL
 - Dashboards
